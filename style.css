@@ -28,7 +28,7 @@ nav a:hover { color: #472d30; border-bottom: 1px solid #472d30; }
 
 @media (max-width: 600px) {
     .profile-container { flex-direction: column-reverse; align-items: center; text-align: center; gap: 20px; }
-    .profile-img { width: 140px; height: 140px; }
+    .profile-img { width: 130px; height: 200px; }
 }
 
 ul { padding-left: 20px; list-style-type: square; }
