@@ -24,7 +24,7 @@ nav a:hover { color: #472d30; border-bottom: 1px solid #472d30; }
 /* Profile Layout */
 .profile-container { display: flex; align-items: center; justify-content: flex-start; gap: 20px; margin-bottom: 40px; }
 .profile-text { flex: 1; }
-.profile-img { width: 160px; height: 190px; display: block; object-fit: cover; border-radius: 50%; border: 4px solid #5e3a3e; box-shadow: 0 4px 12px rgba(0,0,0,0.03); position: relative; left: -25px;}
+.profile-img { width: 160px; height: 190px; display: block; object-fit: cover; border-radius: 50%; border: 4px solid #5e3a3e; box-shadow: 0 4px 12px rgba(0,0,0,0.03); position: relative; left: -40px;}
 
 @media (max-width: 600px) {
     .profile-container { flex-direction: column-reverse; align-items: center; text-align: center; gap: 20px; }
